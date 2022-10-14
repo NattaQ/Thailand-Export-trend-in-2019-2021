@@ -2,13 +2,15 @@
 
 
 # Author
+
+
 Name : Nattapong Tantrakul
 
 STU ID : 6420422025
 
 Subject : DADS5001
 
-#Dataset Information
+# Dataset Information
 
 Due to raw data files is bigger than 25 MB. 
 
@@ -46,3 +48,4 @@ Which Country have the highest imported sales growth from Thailand in the last 3
 
 #Graph
 
+![image](https://www.bing.com/images/blob?bcid=S9fo75L0qMQEqxcxoNWLuD9SqbotqVTdPy0.jpg)
